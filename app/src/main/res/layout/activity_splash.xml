@@ -23,18 +23,18 @@
             <ImageView
                 android:id="@+id/imageView2"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="495dp"
                 app:srcCompat="@drawable/splash_pic" />
 
             <TextView
                 android:id="@+id/textView"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="118dp"
                 android:text="@string/title_splash"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:textColor="@color/black"
-                android:textSize="31sp"/>
+                android:textColor="@color/white"
+                android:textSize="31sp"
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView2"
@@ -50,9 +50,9 @@
             <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/start_btn"
                 style="@android:style/Widget.Button"
-                android:layout_width="match_parent"
+                android:layout_width="298dp"
                 android:layout_height="wrap_content"
-                android:layout_margin="32dp"
+                android:layout_margin="25dp"
                 android:background="@drawable/orange_bg"
                 android:text="Let's Get Started"
                 android:textColor="@color/white"
