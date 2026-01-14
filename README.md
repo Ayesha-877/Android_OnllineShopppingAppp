@@ -1,19 +1,19 @@
-🛍️ Android Online Shopping App
+Android Online Shopping App
 
 Android_OnllineShopppingAppp is a fully functional Android E‑Commerce application built with Java, Firebase backend, and follows the MVVM architecture pattern for clean code and scalability.
 
 This application allows users to browse products, add them to a cart, manage orders, and provides a modern shopping experience on Android devices.
 
-📌 Features
+ Features
 
-✔ MVVM architecture for robust and maintainable code
-✔ Firebase Authentication (Login & Signup)
-✔ Real‑time data with Firebase Realtime Database / Firestore
-✔ Product browsing and detailed view
-✔ Add to cart functionality
-✔ Order placement & management
-✔ User profile management
-✔ Modern UI with responsive layouts
+MVVM architecture for robust and maintainable code
+Firebase Authentication (Login & Signup)
+Real‑time data with Firebase Realtime Database / Firestore
+Product browsing and detailed view
+Add to cart functionality
+Order placement & management
+User profile management
+Modern UI with responsive layouts
 
 More feature enhancements can be added like search, filters, wishlist, and payment integration.
 
