@@ -17,32 +17,16 @@ Modern UI with responsive layouts
 
 More feature enhancements can be added like search, filters, wishlist, and payment integration.
 
-📁 Repository Structure
-Android_OnllineShopppingAppp/
-├── .idea/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/                 ← Application source files
-│   │   │   ├── res/                  ← Layouts & resources
-│   │   │   └── AndroidManifest.xml   ← App configuration
-│   ├── build.gradle
-├── gradle/
-├── gradlew
-├── settings.gradle.kts
-├── build.gradle.kts
-└── gradle.properties
-
-🚀 Getting Started
-📥 Prerequisites
+ Getting Started
+ Prerequisites
 
 Before running the project, make sure you have:
 
-✔ Android Studio
-✔ Android SDK (Recommended 8.0+)
-✔ A Firebase Project
+Android Studio
+Android SDK (Recommended 8.0+)
+A Firebase Project
 
-🧰 Installation
+ Installation
 
 Clone the Repository
 
@@ -77,9 +61,9 @@ Add Firebase Dependencies
 
 Make sure the following services are enabled in Firebase:
 
-✔ Authentication
-✔ Firestore / Realtime Database
-✔ Storage (if storing images)
+ Authentication
+Firestore / Realtime Database
+Storage (if storing images)
 
 Sync & Run
 
@@ -89,13 +73,12 @@ Connect your Android device or emulator
 
 Run the app
 
-🧠 Architecture Overview
+Architecture Overview
 
 This app follows MVVM (Model‑View‑ViewModel) architecture:
-
-🧩 Model – Data structures representing product and user data
-📌 View – XML layouts for UI screens
-🔁 ViewModel – Handles business logic and communicates with Firebase
+ Model – Data structures representing product and user data
+ View – XML layouts for UI screens
+ ViewModel – Handles business logic and communicates with Firebase
 
 Benefits of MVVM:
 
@@ -105,16 +88,7 @@ Easier to maintain and test
 
 Better code readability
 
-📸 Screenshots
-
-Add your screenshots here to visually showcase the app.
-Example structure in README:
-
-Splash Screen	Product List	Cart
-
-	
-	
-❓ Usage
+ Usage
 
 Once you launch the app on your device:
 
